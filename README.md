@@ -1,2 +1,2 @@
-# flutter-projects
-Repositório para prática de flutter
+# flutter-test
+Repositório para práticas de flutter
